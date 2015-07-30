@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\bgprojects\testproject\testparsepush\testparsepush\testparsepush.windowsphone\obj\debug\intermediatexaml\testparsepush.windowsphone.exe" HashGuid="462afd42-7dbf-f917-57b3-683392ae4fdb" />
+    <ReferenceAssembly PathName="d:\bgprojects\testproject\testparsepush\packages\parse.1.5.3\lib\wpa81\parse.dll" HashGuid="1390701e-e677-d9f4-814b-8eeb510edfd6" />
+    <ReferenceAssembly PathName="d:\bgprojects\testproject\testparsepush\packages\parse.1.5.3\lib\wpa81\parse.winrt.dll" HashGuid="1b739aaa-1310-bec7-5a7b-8cfa24666bf5" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
